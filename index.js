@@ -1,1 +1,2 @@
-console.log('soy mejor que ellos vamos a entender  las claves de la tecnologia siempre seremos los mejores')
+
+console.log('soy mejor que ellos vamos a entender  la s cambioso aqui estamn')
